@@ -1,0 +1,114 @@
+[
+    {
+        "precio": 3000.00,
+        "id": 1,
+        "title": "Androxus",
+        "thumbnailUrl": "https://leots79.000webhostapp.com/paladinsBD/img/1.jpg"
+    },
+    
+    {
+        "precio": 6000.00,
+        "id": 2,
+        "title": "Ash",
+        "thumbnailUrl": "https://leots79.000webhostapp.com/paladinsBD/img/2.jpg"
+    },
+
+    {
+        "precio": 9000,
+        "id": 3,
+        "title": "Atlas",
+        "thumbnailUrl": "https://leots79.000webhostapp.com/paladinsBD/img/3.jpg"
+    },
+
+    {
+        "precio": 6000,
+        "id": 4,
+        "title": "Azaan",
+        "thumbnailUrl": "https://leots79.000webhostapp.com/paladinsBD/img/4.jpg"
+    },
+
+    {
+        "precio": 1500,
+        "id": 5,
+        "title": "Barik",
+        "thumbnailUrl": "https://leots79.000webhostapp.com/paladinsBD/img/5.jpg"
+    },
+
+    {
+        "precio": 6000,
+        "id": 6,
+        "title": "Betty la bomba",
+        "thumbnailUrl": "https://leots79.000webhostapp.com/paladinsBD/img/6.jpg"
+    },
+
+    {
+        "precio": 6000,
+        "id": 7,
+        "title": "Bomb King",
+        "thumbnailUrl": "https://leots79.000webhostapp.com/paladinsBD/img/7.jpg"
+    },
+
+    {
+        "precio": 1500,
+        "id": 8,
+        "title": "Buck",
+        "thumbnailUrl": "https://leots79.000webhostapp.com/paladinsBD/img/8.jpg"
+    },
+
+    {
+        "precio": 6000,
+        "id": 9,
+        "title": "Caspian",
+        "thumbnailUrl": "https://leots79.000webhostapp.com/paladinsBD/img/9.jpg"
+    },
+
+    {
+        "precio": 3000,
+        "id": 10,
+        "title": "Cassie",
+        "thumbnailUrl": "https://leots79.000webhostapp.com/paladinsBD/img/10.jpg"
+    },
+
+    {
+        "precio": 6000,
+        "id": 11,
+        "title": "Corvus",
+        "thumbnailUrl": "https://leots79.000webhostapp.com/paladinsBD/img/11.jpg"
+    },
+
+    {
+        "precio": 3000,
+        "id": 12,
+        "title": "Dredge",
+        "thumbnailUrl": "https://leots79.000webhostapp.com/paladinsBD/img/12.jpg"
+    },
+
+    {
+        "precio": 3000,
+        "id": 13,
+        "title": "Drogoz",
+        "thumbnailUrl": "https://leots79.000webhostapp.com/paladinsBD/img/13.jpg"
+    },
+
+    {
+        "precio": 1500,
+        "id": 14,
+        "title": "Evie",
+        "thumbnailUrl": "https://leots79.000webhostapp.com/paladinsBD/img/14.jpg"
+    },
+
+    {
+        "precio": 3000,
+        "id": 15,
+        "title": "fernando",
+        "thumbnailUrl": "https://leots79.000webhostapp.com/paladinsBD/img/15.jpg"
+    },
+
+    {
+        "precio": 6000,
+        "id": 16,
+        "title": "Furia",
+        "thumbnailUrl": "https://leots79.000webhostapp.com/paladinsBD/img/16.jpg"
+    }
+
+]
